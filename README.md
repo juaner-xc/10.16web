@@ -1,6 +1,6 @@
 # Quiz 后台管理作业
 
-这是一个使用 **Vue 2 + Element UI** 完成的 Quiz 管理后台，界面和课堂示例保持相近。
+这是一个使用 **Vue 2 + Element UI** 完成的 Quiz 管理后台
 
 ## 已完成功能
 
@@ -22,21 +22,4 @@ npm run serve
 
 浏览器打开终端显示的网址即可。
 
-## 编译
 
-```bash
-npm run build
-```
-
-编译结果会生成在 `dist` 文件夹中。
-
-## 上传 GitHub
-
-不要上传 `node_modules` 和 `dist`；项目已经提供 `.gitignore`。
-
-## 部署 Vercel
-
-1. 将本项目上传到 GitHub。
-2. 在 Vercel 新建项目并导入该仓库。
-3. Vercel 会自动识别配置：构建命令为 `npm run build`，输出目录为 `dist`。
-4. 点击 Deploy，等待部署完成。
